@@ -2,7 +2,7 @@
 # Author		: Craig Richards
 # Created		: 20 May 2013 
 # Last Modified	: 
-# Version		: 1.0
+# Version		: 1.0 (changed by evan)
 
 # Modifications	: with statement added to ensure correct file closure
 
